@@ -13,11 +13,17 @@ h1{
 .box{
 
 }
+#Child h3{
+	text-align: center;
+	text-decoration: underline;
+
+}
 #elon{
 	float:left;
 	width:300px;
 }
 .rightbox{
+	vertical-align: right;
 	width:500px;
 	float:right;
 	height: 100px;
@@ -26,10 +32,16 @@ h1{
 	text-align: center;
 	text-decoration: underline;
 }
+p{
+	color:blue;
+}
 .leftbox{
+	vertical-align: left;
 	float:left;
 	width:50px;
 	height: 100px;
+	margin: 0;
+	padding:0;
 
 }
 .centerbox{
