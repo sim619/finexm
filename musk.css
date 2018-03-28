@@ -1,0 +1,47 @@
+nav{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+    float:right;
+}
+h1{
+	text-decoration: underline;
+	color:red;
+	text-align: center;
+}
+.box{
+
+}
+#elon{
+	float:left;
+	width:300px;
+}
+.rightbox{
+	width:500px;
+	float:right;
+	height: 100px;
+}
+.box #ComFou{
+	text-align: center;
+	text-decoration: underline;
+}
+.leftbox{
+	float:left;
+	width:50px;
+	height: 100px;
+
+}
+.centerbox{
+	position: absolue;
+	display:block;
+}
+#Awards h3{
+	text-align: center;
+	text-decoration: underline;
+}
+#PopMedia h3{
+	text-align: center;
+	text-decoration: underline;
+}
+
